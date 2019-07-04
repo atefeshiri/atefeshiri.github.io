@@ -18,11 +18,7 @@ background:#0E0C0C;
 	padding:0px;
 	
 }
-.header2{
-	background:#153156;
-	height:100px;
-    margin-top:10px;	
-}
+
 footer{
 margin-top:10px;
 width:100%;
@@ -65,9 +61,7 @@ a{
 header{
   width:100%;
 }
-img{
-	
-}
+
 </style>
 </head>
 
