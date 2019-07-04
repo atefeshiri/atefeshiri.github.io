@@ -74,8 +74,7 @@ img{
 <body>
 <div align="center" class="asli">
  <header>
- <img style="height:200px;
-width:100%;" src="images/style_02.gif"/>
+
  </header>
  <div class="header2">
  <ul><center>
@@ -93,7 +92,7 @@ width:100%;" src="images/style_02.gif"/>
     <h4 style="color:#F5F2F2;font-family:Dast Nevis;">شخصی که کامپیوتر را وارد ایران کرد
     </h4>
     </div>
-    <img style="width:10%;margin-top:20px; height:70px;" src="images/style_09.gif"/>
+    
     <p>اولین شخصی که کامپوتر را وارد ایران کرد آقای .... </p>
     <div class="dokme">ادامه مطلب</div>
   </div>
@@ -103,14 +102,13 @@ width:100%;" src="images/style_02.gif"/>
     <h4 style="color:#F5F2F2;font-family:Dast Nevis;">شش نکته جالب در مورد اندروید
     </h4>
     </div>
-    <img style="width:10%;margin-top:20px; height:70px;" src="images/style_23.gif"/>
+    
     <p>شش نکنته جالب که در مورد اندروید باید بدانید</p>
     <div class="dokme">ادامه مطلب</div>
   </div>
   
   <footer>
-  <img style="height:100px;
-width:100%;" src="images/style_31.gif"/>
+ 
   </footer>
 </div>
 </body>
